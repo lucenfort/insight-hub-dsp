@@ -3,4 +3,4 @@
 
 | Nome do Projeto | Descrição | Link | Tecnologias Usadas | Data de Conclusão | Status do Projeto |
 | --------------- | --------- | ---- | ------------------ | ----------------- | ----------------- |
-| Desenvolvimento de Filtro FIR em Python | Implementação de um filtro de resposta ao impulso finito (FIR) em Python para processamento de sinais digitais. O projeto abordará desde a teoria básica dos filtros FIR até a implementação prática, permitindo a filtragem de sinais de áudio ou outros tipos de dados. | [[Link]](https://github.com/lucenfort/dsp-fir-filter.git) | Python, NumPy, Matplotlib | 01/04/2024 | Concluído |
+| Desenvolvimento de Filtro FIR em Python | Implementação de um filtro de resposta ao impulso finito (FIR) em Python para processamento de sinais digitais. | [[Link]](https://github.com/lucenfort/dsp-fir-filter.git) | Python, NumPy, Matplotlib | 01/04/2024 | Concluído |
